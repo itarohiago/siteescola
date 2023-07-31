@@ -1,11 +1,11 @@
-<body> {
-    background-color: #138013;
-    color: rgb(45, 58, 177);
+body {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
 }
-<title>Document</title>
+<title>50-Cent</title>
 <link rel="stylesheet" href="style.css">
 </body>
-.cabecalho {
+.cabecalho-imagem {
     background-color: #383D58;
     color: white;
     display:flex;
